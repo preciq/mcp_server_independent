@@ -1,0 +1,14 @@
+{
+	"servers": {
+		"mcp-terminal-server-test": {
+			"type": "stdio",
+			"command": "poetry",
+			"args": [
+				"run",
+				"python",
+				"server.py"
+			]
+		}
+	},
+	"inputs": []
+}
