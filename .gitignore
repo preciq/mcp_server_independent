@@ -20,6 +20,7 @@ dist/
 .coverage.*
 htmlcov/
 .ipynb_checkpoints/
+*.lock
 
 # Virtual environments
 .venv/
